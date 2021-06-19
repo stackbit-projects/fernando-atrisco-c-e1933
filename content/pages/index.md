@@ -8,7 +8,7 @@ sections:
     content: |
       #### Te ayudo a crear la identidad visual de marca / emprendimiento.
     actions:
-      - label: Let's talk
+      - label: Vamos
         url: /contact
         style: button
   - section_id: latest-projects
