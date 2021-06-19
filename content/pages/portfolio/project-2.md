@@ -1,5 +1,5 @@
 ---
-title: Project Title 2
+title: Desarrollo de marca
 subtitle: Optional Project Subtitle
 date: '2019-04-30'
 thumb_image: /images/masdigBrand-01_Mesa de trabajo 1.jpg
