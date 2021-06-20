@@ -1,6 +1,8 @@
 ---
 title: ¿Quien soy?
-subtitle: '"Siempre estoy haciendo lo que no se hacer, para aprender como hacerlo"'
+subtitle: >-
+  "Siempre estoy haciendo lo que no se hacer, para aprender como hacerlo"
+  Picasso.
 image: /images/friendly-basil.jpg
 image_alt: A man taking a picture
 seo:
