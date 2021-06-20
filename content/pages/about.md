@@ -1,6 +1,6 @@
 ---
 title: ¿Quien soy?
-subtitle: This is a short page about us and our work.
+subtitle: '"Siempre estoy haciendo lo que no se hacer, para aprender como hacerlo"'
 image: /images/friendly-basil.jpg
 image_alt: A man taking a picture
 seo:
