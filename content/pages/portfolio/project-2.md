@@ -4,7 +4,7 @@ subtitle: Optional Project Subtitle
 date: '2019-04-30'
 thumb_image: /images/masdigBrand-01_Mesa de trabajo 1.jpg
 thumb_image_alt: An orange on a blue background
-image: images/2.jpg
+image: /images/banner-02-02.jpg
 image_alt: An orange on a blue background
 seo:
   title: Project Title 2
