@@ -28,5 +28,5 @@ seo:
       value: images/1.jpg
       relativeUrl: true
 layout: portfolio
-subtitle: 'Aprendizaje constante como valor '
+subtitle: Aprendizaje constante como valor de vida
 ---
