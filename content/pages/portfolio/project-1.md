@@ -4,7 +4,7 @@ subtitle: Optional Project Subtitle
 date: '2019-05-10'
 thumb_image: /images/IMG_1462.JPG
 thumb_image_alt: 'White, black, and red shoe sole'
-image: images/1.jpg
+image: /images/retoño.jpg
 image_alt: 'White, black, and red shoe sole'
 seo:
   title: Project Title 1
