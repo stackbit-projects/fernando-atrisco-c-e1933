@@ -1,5 +1,5 @@
 ---
-title: Portfolio
+title: Un gusto que observes mi portfolio
 layout_style: mosaic
 seo:
   title: Portfolio
