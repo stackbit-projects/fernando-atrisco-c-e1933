@@ -1,6 +1,6 @@
 ---
 title: Sesión de fotos Villa Blanca
-subtitle: Optional Project Subtitle
+subtitle: 'Un viaje al lugar donde coincide Guerrero, Puebla y el Edo. Méx.'
 date: '2019-05-10'
 thumb_image: /images/IMG_1462.JPG
 thumb_image_alt: 'White, black, and red shoe sole'
