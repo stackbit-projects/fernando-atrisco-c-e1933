@@ -1,6 +1,6 @@
 ---
 title: Dorali
-subtitle: Crr
+subtitle: Creatividad para sonreir
 date: '2019-02-26'
 thumb_image: /images/manual25.jpg
 thumb_image_alt: A table tennis racket on a pink background
