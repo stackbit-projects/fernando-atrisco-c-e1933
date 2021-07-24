@@ -1,5 +1,5 @@
 ---
-title: Brand & Labeling GLAADPublicidad Villa Blanca
+title: Publicidad Villa Blanca
 subtitle: Optional Project Subtitle
 date: '2019-05-10'
 thumb_image: /images/IMG_1462.JPG
