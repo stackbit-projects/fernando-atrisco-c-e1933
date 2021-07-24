@@ -1,5 +1,5 @@
 ---
-title: Desarrollo de marca
+title: Un proyecto para grandes amigos
 subtitle: Posicionados en la economía de la atención.
 date: '2019-04-30'
 thumb_image: /images/masdigBrand-01_Mesa de trabajo 1.jpg
