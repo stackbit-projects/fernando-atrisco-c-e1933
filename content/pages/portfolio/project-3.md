@@ -2,7 +2,7 @@
 title: Creadores de marca
 subtitle: Optional Project Subtitle
 date: '2019-04-08'
-thumb_image: /images/1icon_name_c_m.png
+thumb_image: /images/1icon_creadores_marca.png
 thumb_image_alt: A yellow retro telephone on a yellow background
 image: images/3.jpg
 image_alt: A yellow retro telephone on a yellow background
