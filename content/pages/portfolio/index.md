@@ -28,5 +28,5 @@ seo:
       value: images/1.jpg
       relativeUrl: true
 layout: portfolio
-subtitle: 'Una suma '
+subtitle: 'Una suma de habilidades '
 ---
