@@ -1,5 +1,5 @@
 ---
-title: Sesión Villa Blanca
+title: Sesión fo Villa Blanca
 subtitle: Optional Project Subtitle
 date: '2019-05-10'
 thumb_image: /images/IMG_1462.JPG
