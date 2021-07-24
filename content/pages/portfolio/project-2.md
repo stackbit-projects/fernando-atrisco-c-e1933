@@ -38,8 +38,8 @@ Masdigital es una marca que pertenece a MasRadio.com es la adaptación del conte
 
 > Honestamente me encantó el trabajo que hicieron, le da una imagen fácil de identificar, elegante y llamativa" Arturo Del Rio Director General.
 
-Trás colaborar con ellos durante 6 años como locutor y Community manager y otros más fuera del equipo, me acerqué a platicar con el Lic, Del Rio y le ofrecí crear un nuevo canal de comunicación 
+Trás colaborar con ellos durante 6 años como locutor y Community manager, y más años fuera del equipo, me acerqué a platicar con el Lic, Del Rio y le ofrecí crear un nuevo canal de comunicación
 
 > Quise hacer una revista donde aparezca gente como nosotros, no estrellas encumbradas, personas que luchan cada día" - Arturo I. Del Rio
 
-Risus in hendrerit gravida rutrum quisque. Adipiscing enim eu turpis egestas pretium aenean pharetra magna ac. Urna nec tincidunt praesent semper. Elementum nibh tellus molestie nunc non blandit massa enim. Pharetra diam sit amet nisl suscipit adipiscing bibendum est ultricies. Lorem mollis aliquam ut porttitor. Quam quisque id diam vel quam elementum pulvinar etiam non. Sed tempus urna et pharetra pharetra. Dictumst vestibulum rhoncus est pellentesque elit ullamcorper dignissim. Tempor orci dapibus ultrices in iaculis nunc sed. Nisi quis eleifend quam adipiscing vitae proin sagittis nisl rhoncus. Eu mi bibendum neque egestas congue quisque. Integer quis auctor elit sed vulputate mi sit. Nullam ac tortor vitae purus faucibus ornare suspendisse sed.
+Regresar un poco de lo que recibí cuando trabaje con ellos sin duda es gratificante, trabajar el Brieff para entender el mensaje que desean transmitir. Este proceso en lo particular fue enriquecedor desde llevarlo al boceto en la libreta, para realizar los primero diseños en Illustrator y montar el resultado sobre plantillas en photoshop al presentarlos fue regresar a los primeros años en los que tuve contacto con el diseño sólo que ahora no había miedos o dudas al contrario era una alegría.
