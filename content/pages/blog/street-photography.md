@@ -3,7 +3,7 @@ title: 'Pictogramas, comunicación más allá del idioma.'
 excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
   incididunt ut labore et dolore magna aliqua. Ac ut consequat semper viverra.
-date: '2019-03-10'
+date: '2021-08-16'
 thumb_image: /images/blogportada.jpg
 thumb_image_alt: Hello this way printed on a red metal gate
 image: images/8.jpg
