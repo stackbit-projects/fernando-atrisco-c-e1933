@@ -37,10 +37,9 @@ sections:
           para tu videoblog, o spots publicitarios para tus RRSS, listos para
           mostrarte ante el mundo.
       - title: Motion Graphics
-        content: >-
-          Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
-          convallis, interdum ligula vel, pretium diam. Integer commodo sem at
-          dui sollicitudin.
+        content: >
+          Dale viveza y dinamismo a tus publicaciones motion graphics para tus
+          redes sociales y alcanza a un publico mayor de manera orgánica.
       - title: Consultorias
         content: >-
           Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
