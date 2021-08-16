@@ -31,10 +31,11 @@ sections:
           sea en redes sociales, tu papelería y en tu ubicación física. ¡Puedo
           ayudarte con ello!
       - title: Producción audiovisual
-        content: >-
-          Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-          a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
-          tincidunt ut tellus.
+        content: >
+          El video es una oportunidad para que tu producto / servicio llegué a
+          más personas. De una manera fácil y accesible tendrás una plan de
+          acción para tener un videoblog, o spots publicitarios para tus RRSS,
+          listos para mostrarte ante el mundo.
       - title: Motion Graphics
         content: >-
           Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
