@@ -41,9 +41,9 @@ sections:
           Dale viveza y dinamismo a tus publicaciones motion graphics para tus
           redes sociales y alcanza a un publico mayor de manera orgánica.
       - title: Consultorias
-        content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
+        content: >
+          Quieres realizar tu mismo o delegar a algún colaborador tuyo, no hay
+          problema te capacitamos a ti y/o a tu equipo.
   - section_id: testimonials
     type: section_testimonials
     title: Testimonials
