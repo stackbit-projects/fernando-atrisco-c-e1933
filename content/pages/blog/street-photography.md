@@ -105,3 +105,5 @@ Dalton Maag fue quien diseño los pictogramas que se basaron en las letras y el 
 ###### Tokio 2020
 
 Kota Iguchi encargada de supervisar el diseño de los pictogramas, recuerda que nacieron en esta ciudad en 1964 y 56 años (más uno por la pandemia) asumió el reto de otorgar movimiento a los pictogramas, y dejar un legado nuevamente a las ediciones futuras de los olímpicos.
+
+> ¡¡Felicidades campeón!! si leíste todo el post
