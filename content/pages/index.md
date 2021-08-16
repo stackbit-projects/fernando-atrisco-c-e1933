@@ -33,9 +33,9 @@ sections:
       - title: Producción audiovisual
         content: >
           El video es una oportunidad para que tu producto / servicio llegué a
-          más personas. De una manera fácil y accesible tendrás una plan de
-          acción para tener un videoblog, o spots publicitarios para tus RRSS,
-          listos para mostrarte ante el mundo.
+          más personas. De manera fácil y accesible tendrás un plan estratégico
+          para tu videoblog, o spots publicitarios para tus RRSS, listos para
+          mostrarte ante el mundo.
       - title: Motion Graphics
         content: >-
           Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
