@@ -11,7 +11,7 @@ export default class SectionHero extends React.Component {
         const title = _.get(section, 'title');
         const content = _.get(section, 'content');
         const actions = _.get(section, 'actions');
-        
+    
 
         return (
             <section id={sectionId} className="block block-hero outer">
