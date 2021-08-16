@@ -5,8 +5,9 @@ sections:
   - section_id: hero
     type: section_hero
     title: '¿Que tal? Soy Fernando Atrisco, Desarrollador de marcas y Motion Grapher'
-    content: |
-      #### Te ayudo a crear la identidad visual de marca / emprendimiento.
+    content: >
+      #### Crea la identidad visual de marca / emprendimiento y renueva tus
+      puntos de contacto con tus clientes.
     actions:
       - label: Vamos
         url: /contact
