@@ -44,9 +44,39 @@ seo:
       relativeUrl: true
 layout: post
 ---
+Los pictogramas son: "Signos icónicos, claros. Construidos de manera simple para transmitir un mensaje que sobrepase el idioma". Al incrementar el número de participantes debía idearse un sistema efectivo para informar a atletas y espectadores.  ¿List@? Iniciamos
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ac ut consequat semper viverra nam libero justo laoreet sit. Tincidunt id aliquet risus feugiat in ante. Non diam phasellus vestibulum lorem sed. Morbi quis commodo odio aenean. Tortor aliquam nulla facilisi cras fermentum odio eu feugiat. Vel eros donec ac odio tempor orci dapibus ultrices. Facilisi morbi tempus iaculis urna id volutpat. Luctus accumsan tortor posuere ac. Sagittis orci a scelerisque purus semper eget. Ultricies mi quis hendrerit dolor magna eget est lorem ipsum. Dolor purus non enim praesent. Lorem sed risus ultricies tristique nulla aliquet enim tortor. Aliquam vestibulum morbi blandit cursus risus.
 
-Scelerisque fermentum dui faucibus in ornare quam viverra orci. Libero justo laoreet sit amet cursus. Gravida rutrum quisque non tellus orci. Ut sem nulla pharetra diam sit amet nisl suscipit. Lorem ipsum dolor sit amet consectetur adipiscing elit. Urna porttitor rhoncus dolor purus. Quisque non tellus orci ac auctor augue mauris augue. Consectetur adipiscing elit duis tristique sollicitudin. Vitae semper quis lectus nulla at volutpat. Elementum pulvinar etiam non quam lacus suspendisse faucibus. Porta nibh venenatis cras sed felis eget velit. Ullamcorper malesuada proin libero nunc consequat interdum. Enim sed faucibus turpis in eu mi bibendum neque egestas. Facilisi morbi tempus iaculis urna. Rhoncus est pellentesque elit ullamcorper dignissim. Aenean et tortor at risus viverra adipiscing at in. Cursus euismod quis viverra nibh cras pulvinar mattis nunc sed. Sit amet aliquam id diam. Ut tristique et egestas quis ipsum suspendisse. Congue quisque egestas diam in arcu cursus.
+###### Tokio1964&#xA;En Tokio fueron los primeros en emplear pictogramas. Diseñados por Yoshiro Yamashita y Masaru Katzumie. Como te mencioné antes sólo se centraron en solventar la problemática en la comunicación por ello vemos formas muy simples y sencillas a comparación de posteriores trabajos.&#xA;
 
-Mattis enim ut tellus elementum sagittis. At volutpat diam ut venenatis tellus in metus vulputate eu. Habitant morbi tristique senectus et. Id aliquet lectus proin nibh nisl condimentum id venenatis. Nec tincidunt praesent semper feugiat nibh sed pulvinar. Lectus vestibulum mattis ullamcorper velit sed. Semper viverra nam libero justo. Purus sit amet luctus venenatis. Massa id neque aliquam vestibulum morbi blandit cursus risus at. Feugiat nibh sed pulvinar proin gravida.
+Tokio 1964
+El comité organizador de los juegos olímpicos entre los que figuraba Lance Wyman, diseñaron los pictogramas. El proyecto destaca por solo mostrar una parte del cuerpo o algún elemento a usar en la competencia. Lo colorido de los iconos hace referencia a la cultura mexicana.
+
+Vuelve el contexto presente en Tokio, empleando ángulos de 45 y 90 grados, volviendo a las reglas matemáticas y gráficas un estándar en los siguientes proyectos de este tipo.
+
+El encargado de diseñar los pictogramas fue Otl Aicher, adaptados por Hue y Pelletier, integrando el rojo, reforzando la identidad de marca de estas olimpiadas. Además de dividir la figura en 3 partes.
+
+Nikolai Belkov empleó líneas en ángulos de 30 y 60 grados dando así la ilusión de flexibilidad en las imágenes. La silueta del cuerpo esta definida por una sola pieza además de la cabeza.
+
+Inicialmente se intentó conseguir los derechos de los pictogramas de Berlín 70 pero se dieron cuenta que era más accesible desarrollar los propios. Los principios de diseño fueron: Consistencia, legibilidad y practicidad, diviendo el cuerpo en 4: brazos, piernas, tronco y cabeza.
+
+La organización de los juegos fue la encargada del diseño. Se colocó especial atención en la unión de las extremidades con el tronco del cuerpo, divididos nuevamente en 4 partes.
+
+Josep María Trías diseñó el emblema y los pictogramas acentuando la parte artística. Se dinamizó la marca al integrar el emblema en los mismos pictogramas divididos en 3 partes, el tronco en algunos esta en espacio negativo y en otros lo sugieren los brazos u otros elementos.
+
+Diseñado por Malcom Grear se utilizó un estilo realista a la silueta humana el cual sin duda remonta al origen de esta justa deportiva.
+
+¿Alguien más recuerda a la emblemática ópera de Sídney al ver estos pictogramas? Pues están conformados por "boomerangs" que muestran una cultura aborigen australiana. Partiendo del concepto de dinamismo, representan la agilidad y la velocidad de los participantes.
+
+Diseñados por Theodora Mantzaris nuevamente se observa una influencia de la cultura del país en los pictogramas, en este caso inspirados en la antiguas vasijas griegas, aportando estas formas irregulares en cada figura y la paleta de colores.
+
+Las inscripciones encontradas en China sobre hueso y sobre vasijas de bronce fueron punto de partida para los pictogramas en esta edición, adaptados por la universidad de Tsinghua para otorgarles simplicidad y un toque moderno.
+
+SomeOne Design Agency diseño 2 juegos de pictogramas, la versión para uso estándar y una versión más dinámico que tuvo inspiración en el metro de Londres.
+
+Dalton Maag fue quien diseño los pictogramas que se basaron en las letras y el emblema de los juegos olímpicos, los cuales tienen su inspiración en el paisaje del país sudamericano. Con la fluidez de las líneas se emulan las acciones de los participantes en la justa deportiva.
+
+Kota Iguchi encargada de supervisar el diseño de los pictogramas, recuerda que nacieron en esta ciudad en 1964 y 56 años (más uno por la pandemia) asumió el reto de otorgar movimiento a los pictogramas, y dejar un legado nuevamente a las ediciones futuras de los olímpicos.
+
+
+
