@@ -46,8 +46,11 @@ layout: post
 ---
 Los pictogramas son: "Signos icónicos, claros. Construidos de manera simple para transmitir un mensaje que sobrepase el idioma". Al incrementar el número de participantes debía idearse un sistema efectivo para informar a atletas y espectadores.  ¿List@? Iniciamos
 
+###### Tokio1964
 
-###### Tokio1964&#xA;En Tokio fueron los primeros en emplear pictogramas. Diseñados por Yoshiro Yamashita y Masaru Katzumie. Como te mencioné antes sólo se centraron en solventar la problemática en la comunicación por ello vemos formas muy simples y sencillas a comparación de posteriores trabajos.&#xA;
+
+En Tokio fueron los primeros en emplear pictogramas. Diseñados por Yoshiro Yamashita y Masaru Katzumie. Como te mencioné antes sólo se centraron en solventar la problemática en la comunicación por ello vemos formas muy simples y sencillas a comparación de posteriores trabajos.
+
 
 Tokio 1964
 El comité organizador de los juegos olímpicos entre los que figuraba Lance Wyman, diseñaron los pictogramas. El proyecto destaca por solo mostrar una parte del cuerpo o algún elemento a usar en la competencia. Lo colorido de los iconos hace referencia a la cultura mexicana.
@@ -77,6 +80,3 @@ SomeOne Design Agency diseño 2 juegos de pictogramas, la versión para uso est�
 Dalton Maag fue quien diseño los pictogramas que se basaron en las letras y el emblema de los juegos olímpicos, los cuales tienen su inspiración en el paisaje del país sudamericano. Con la fluidez de las líneas se emulan las acciones de los participantes en la justa deportiva.
 
 Kota Iguchi encargada de supervisar el diseño de los pictogramas, recuerda que nacieron en esta ciudad en 1964 y 56 años (más uno por la pandemia) asumió el reto de otorgar movimiento a los pictogramas, y dejar un legado nuevamente a las ediciones futuras de los olímpicos.
-
-
-
