@@ -1,6 +1,10 @@
 ---
 title: 'Pictogramas, comunicación más allá del idioma.'
-excerpt: vvvv
+excerpt: >-
+  Los pictogramas son: "Signos icónicos, claros. Construidos de manera simple
+  para transmitir un mensaje que sobrepase el idioma". Al incrementar el número
+  de participantes debía idearse un sistema efectivo para informar a atletas y
+  espectadores. 
 date: '2021-08-02'
 thumb_image: /images/blogportada.jpg
 thumb_image_alt: Hello this way printed on a red metal gate
