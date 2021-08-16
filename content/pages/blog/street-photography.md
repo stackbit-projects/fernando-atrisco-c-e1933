@@ -1,9 +1,6 @@
 ---
 title: 'Pictogramas, comunicación más allá del idioma.'
-excerpt: >-
-  Lorem ipsum dolor sit amnjnjnjnjnjnet, consectetur adipiscing elit, sed do
-  eiusmod tempor incididunt ut labore et dolore magna aliqua. Ac ut consequat
-  semper viverra.
+excerpt: vvvv
 date: '2021-08-02'
 thumb_image: /images/blogportada.jpg
 thumb_image_alt: Hello this way printed on a red metal gate
