@@ -26,10 +26,9 @@ sections:
     is_numbered: true
     grid_items:
       - title: Desarrollo de identidad visual
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          Cada punto de contacto con tus clientes, debe recordar tu marca, ya
+          sea en redes sociales, tu papelería y en tu ubicación física .
       - title: Producción audiovisual
         content: >-
           Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
