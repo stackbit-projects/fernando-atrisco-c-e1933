@@ -28,7 +28,8 @@ sections:
       - title: Desarrollo de identidad visual
         content: >
           Cada punto de contacto con tus clientes, debe recordar tu marca, ya
-          sea en redes sociales, tu papelería y en tu ubicación física .
+          sea en redes sociales, tu papelería y en tu ubicación física. ¡Puedo
+          ayudarte con ello!
       - title: Producción audiovisual
         content: >-
           Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
